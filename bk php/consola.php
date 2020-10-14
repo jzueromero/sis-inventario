@@ -1,4 +1,4 @@
 <?php
-    echo $_GET['dato'];
+    //echo $_GET['dato'];
 
 ?>
